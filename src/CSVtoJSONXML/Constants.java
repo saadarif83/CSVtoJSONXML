@@ -12,8 +12,7 @@ package CSVtoJSONXML;
 public interface Constants {
     public static final String QUOTES = "\"";
     public static final String SPLITTER = ",";
-    public static final String INPUT_FILENAME = "resources/Periodic Table of Elements.csv";
-    
+    public static final String INPUT_FILENAME = "resources/Periodic Table of Elements.csv";    
     public static final String JSON_FILENAME = "resources/output.json";
     public static final String XML_FILENAME = "resources/output.xml";
     
